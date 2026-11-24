@@ -1,0 +1,12 @@
+# 大塚製薬 Academy
+
+> 大塚製薬 Academy
+
+## Main Pages
+
+- [otsuka academy](https://musclelove-777.github.io/otsuka-academy/): main page of 大塚製薬 Academy.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/otsuka-academy
